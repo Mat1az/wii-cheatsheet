@@ -90,8 +90,8 @@ Personal cheatsheet, workaround notes, open source homebrew apps testing, issues
    - Replace the **original .dol** file with the **patched .dol**
    - Use **`GCRebuilder`** to create a new **.iso** from the extracted folder
 5. Gamecube (Widescreen, Nintendont)
-   > [!WARNING]
-   > Don't enable the **`Widescreen option`** in the Nintendont Config File as it uses a **generic widescreen code** that causes **visual glitches**.
+> [!WARNING]
+> Don't enable the **`Widescreen option`** in the Nintendont Config File as it uses a **generic widescreen code** that causes **visual glitches**.
    - Search for a **Gecko Widescreen Code** for your game
    - Search for a **GCT Maker/Generator** to create **.gct** file with that code
    - Enable **`Cheats`** in the Nintendont Config file
